@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T19:03:07.396Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="DFhqav0CN-icVhyB2aIH" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T19:04:20.546Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="N68NINc9PkZR1XDU-2jP" version="15.7.0" type="github">
   <diagram id="AUPCx3ZcEh8xyHO7lobR" name="Page-1">
     <mxGraphModel dx="686" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="127" pageHeight="100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="mQk6gLys1sN5pBC-nITf-46" value="Gridded data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mQk6gLys1sN5pBC-nITf-47" value="Process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2;fontColor=#030303;" vertex="1" parent="1">
+        <mxCell id="mQk6gLys1sN5pBC-nITf-47" value="Process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
