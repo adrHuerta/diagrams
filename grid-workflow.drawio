@@ -317,7 +317,7 @@
           <mxGeometry x="145.01" y="-198" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxn4TXaAcHjQbOniMQlU-472" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;Spatial model&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;strokeWidth=0.5;fillColor=#eeeeee;strokeColor=default;fontStyle=2;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="145.01" y="-98" width="240" height="20" as="geometry" />
+          <mxGeometry x="144.98999999999998" y="-100" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxn4TXaAcHjQbOniMQlU-536" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="195" y="-337.98" width="189.99" height="329.98" as="geometry" />
