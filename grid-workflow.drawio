@@ -1461,7 +1461,7 @@
         <mxCell id="_u0diMnFb5T73DBTEGrL-140" parent="_u0diMnFb5T73DBTEGrL-95" style="text;verticalAlign=middle;align=center;fillColor=#eeeeee;strokeColor=none;rounded=1;glass=0;shadow=0;fontStyle=2;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;whiteSpace=wrap;html=1;convertToSvg=0;fontSize=14;" value="Precipitation analogue" vertex="1">
           <mxGeometry height="25" width="341" x="-115" y="54.98" as="geometry" />
         </mxCell>
-        <mxCell id="_u0diMnFb5T73DBTEGrL-141" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeColor=#0000FF;strokeWidth=3;curved=1;opacity=25;">
+        <mxCell id="_u0diMnFb5T73DBTEGrL-141" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeColor=#0000FF;strokeWidth=4;curved=1;opacity=25;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="27.170000000000016" y="64.98000000000002" />
@@ -1471,7 +1471,7 @@
             <mxPoint x="177.17000000000002" y="94.98000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u0diMnFb5T73DBTEGrL-142" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#0000FF;strokeWidth=3;curved=1;opacity=25;">
+        <mxCell id="_u0diMnFb5T73DBTEGrL-142" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#0000FF;strokeWidth=4;curved=1;opacity=25;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="172.51000000000002" y="267.98" />
@@ -1481,7 +1481,7 @@
             <mxPoint x="22.510000000000005" y="297.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u0diMnFb5T73DBTEGrL-145" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=open;endFill=0;strokeColor=#FF0000;curved=1;opacity=25;">
+        <mxCell id="_u0diMnFb5T73DBTEGrL-145" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=open;endFill=0;strokeColor=#FF0000;curved=1;opacity=25;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="175.03000000000003" y="65.98000000000002" />
@@ -1491,7 +1491,7 @@
             <mxPoint x="135.03000000000003" y="95.98000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u0diMnFb5T73DBTEGrL-146" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=open;endFill=0;strokeColor=#FF0000;curved=1;opacity=25;">
+        <mxCell id="_u0diMnFb5T73DBTEGrL-146" edge="1" parent="_u0diMnFb5T73DBTEGrL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=open;endFill=0;strokeColor=#FF0000;curved=1;opacity=25;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="135.03000000000003" y="270.98" />
@@ -1535,7 +1535,7 @@
           <mxGeometry height="25" width="343" x="299" y="250" as="geometry" />
         </mxCell>
         <mxCell id="_u0diMnFb5T73DBTEGrL-31" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=0;fontColor=#4A4A4A;fontSize=13;shadow=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;" value="&lt;span&gt;Observed &lt;br&gt;precipitation fields&lt;br&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(ensemble)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="75" width="90.14" x="300" y="396" as="geometry" />
+          <mxGeometry height="75" width="90.14" x="302.18" y="393" as="geometry" />
         </mxCell>
         <mxCell id="_u0diMnFb5T73DBTEGrL-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="40" width="50" x="392.32" y="415" as="geometry" />
