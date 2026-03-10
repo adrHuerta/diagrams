@@ -22,7 +22,7 @@
             <mxPoint x="632.8900000000001" y="183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u0diMnFb5T73DBTEGrL-28" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=0;fontColor=#4A4A4A;fontSize=13;shadow=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;" value="&lt;font&gt;Observed &lt;br&gt;precipitation &lt;br&gt;station&lt;/font&gt;" vertex="1">
+        <mxCell id="_u0diMnFb5T73DBTEGrL-28" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=0;fontColor=#4A4A4A;fontSize=13;shadow=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;" value="&lt;font&gt;Observed &lt;br&gt;precipitation &lt;br&gt;(station data)&lt;/font&gt;" vertex="1">
           <mxGeometry height="75.02" width="90" x="383" y="33" as="geometry" />
         </mxCell>
         <mxCell id="_u0diMnFb5T73DBTEGrL-29" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontStyle=0;fontColor=#4A4A4A;fontSize=13;shadow=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;" value="&lt;span&gt;&lt;br&gt;Satellite &lt;br&gt;precipitation product&lt;br&gt;&lt;br&gt;&lt;/span&gt;" vertex="1">
